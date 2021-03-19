@@ -12,7 +12,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'Django>=3.0',
-        'djangorestframework==3.11.0',
+        'djangorestframework==3.11.2',
         'django-cors-headers==3.3.0'
     ],
     classifiers=[
